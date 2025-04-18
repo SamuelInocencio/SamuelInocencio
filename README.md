@@ -1,30 +1,30 @@
-# 👋 Olá, sou o Samuel Ferreira Inocencio
+# 👋 Hi there, I'm Samuel Ferreira Inocencio
 
-Seja muito bem-vindo(a) ao meu perfil no GitHub!
+Welcome to my GitHub profile!
 
-Sou um desenvolvedor em transição de carreira, apaixonado por tecnologia e em constante evolução. Atualmente estou focado em **desenvolvimento web fullstack**, com ênfase em **Node.js no backend** e **React no frontend**.
+I'm a career-changer passionate about technology and currently focused on becoming a **fullstack web developer**, specializing in **Node.js for the backend** and **React for the frontend**.
 
-🧠 Estou estudando com dedicação no **DevClub** com o professor **Rodolfo Mori**, aprofundando conhecimentos em:
-- HTML, CSS e JavaScript
-- Node.js e Express
+🧠 I'm actively learning at **DevClub**, led by instructor **Rodolfo Mori**, where I'm gaining solid experience in:
+- HTML, CSS, and JavaScript
+- Node.js and Express
 - React.js
-- Git e GitHub
-- Banco de Dados (PostgreSQL)
+- Git and GitHub
+- Databases (PostgreSQL)
 
-## 🚀 Projetos em destaque
+## 🚀 Featured Projects
 
-- [🔗 DevBurger (Fullstack)](https://github.com/SamuelInocencio/DevBurger)
-  > Sistema de gerenciamento de pedidos para hamburgueria, com autenticação, painel administrativo, banco de dados e interface moderna.
-  
-- [🔗 Cadastro de Usuários](https://github.com/SamuelInocencio/Cadastro-de-Usuarios)
-  > Projeto construído com React e Node no backend, com operações de CRUD e controle de login.
+- [🔗 DevBurger (Fullstack)](https://github.com/SamuelInocencio/DevBurger)  
+  > A burger order management system with authentication, admin panel, database integration, and modern UI.
 
-## 📚 Em aprendizado contínuo
+- [🔗 User Registration System](https://github.com/SamuelInocencio/Cadastro-de-Usuarios)  
+  > A CRUD app built with React and Node.js, including user login and form validation.
 
-Além dos projetos práticos, estou sempre revisando conteúdos e me atualizando com boas práticas e novas tecnologias. Meu foco é solidificar a base e construir sistemas reais e eficientes.
+## 📚 Always Learning
 
-## 🤝 Vamos nos conectar?
+Besides hands-on projects, I'm constantly reviewing content and learning best practices. My goal is to build real, scalable, and efficient systems.
 
-- 📧 Email: samuel.inocencio@gmail.com  
-- 💼 LinkedIn: [Samuel Inocêncio](https://www.linkedin.com/in/samuelinocencio)
-- 🌐 Portfólio (em breve)
+## 🤝 Let's Connect
+
+- 📧 Email: samuel.inocencio@ufg.br
+- 💼 LinkedIn: [Samuel Inocêncio](https://www.linkedin.com/in/samuel-ferreira-inocencio/)  
+- 🌐 Portfolio: *coming soon*
