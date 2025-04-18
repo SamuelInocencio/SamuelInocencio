@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, sou o Samuel Ferreira Inocencio
 
-<!--
-**SamuelInocencio/SamuelInocencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja muito bem-vindo(a) ao meu perfil no GitHub!
 
-Here are some ideas to get you started:
+Sou um desenvolvedor em transição de carreira, apaixonado por tecnologia e em constante evolução. Atualmente estou focado em **desenvolvimento web fullstack**, com ênfase em **Node.js no backend** e **React no frontend**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Estou estudando com dedicação no **DevClub** com o professor **Rodolfo Mori**, aprofundando conhecimentos em:
+- HTML, CSS e JavaScript
+- Node.js e Express
+- React.js
+- Git e GitHub
+- Banco de Dados (PostgreSQL)
+
+## 🚀 Projetos em destaque
+
+- [🔗 DevBurger (Fullstack)](https://github.com/SamuelInocencio/DevBurger)
+  > Sistema de gerenciamento de pedidos para hamburgueria, com autenticação, painel administrativo, banco de dados e interface moderna.
+  
+- [🔗 Cadastro de Usuários](https://github.com/SamuelInocencio/Cadastro-de-Usuarios)
+  > Projeto construído com React e Node no backend, com operações de CRUD e controle de login.
+
+## 📚 Em aprendizado contínuo
+
+Além dos projetos práticos, estou sempre revisando conteúdos e me atualizando com boas práticas e novas tecnologias. Meu foco é solidificar a base e construir sistemas reais e eficientes.
+
+## 🤝 Vamos nos conectar?
+
+- 📧 Email: samuel.inocencio@gmail.com  
+- 💼 LinkedIn: [Samuel Inocêncio](https://www.linkedin.com/in/samuelinocencio)
+- 🌐 Portfólio (em breve)
