@@ -27,4 +27,4 @@ Besides hands-on projects, I'm constantly reviewing content and learning best pr
 
 - 📧 Email: samuel.inocencio@ufg.br
 - 💼 LinkedIn: [Samuel Inocêncio](https://www.linkedin.com/in/samuel-ferreira-inocencio/)  
-- 🌐 Portfolio: *coming soon*
+- 🌐 Portfolio: https://portfolio.samuelinocencio.com/
